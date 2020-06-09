@@ -1,5 +1,2 @@
-*~
-*.o
+/target
 tmp*
-a.out
-9cc
